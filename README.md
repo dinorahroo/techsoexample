@@ -1,0 +1,2 @@
+# techsoexample
+blog example
